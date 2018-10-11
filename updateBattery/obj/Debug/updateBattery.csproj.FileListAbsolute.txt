@@ -8,3 +8,12 @@ C:\Users\Administrator\source\repos\updateBattery\updateBattery\obj\Debug\update
 C:\Users\Administrator\source\repos\updateBattery\updateBattery\obj\Debug\updateBattery.exe
 C:\Users\Administrator\source\repos\updateBattery\updateBattery\obj\Debug\updateBattery.pdb
 C:\Users\Administrator\source\repos\updateBattery\updateBattery\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Documents\GitHub\demo\updateBattery\bin\Debug\updateBattery.exe.config
+C:\Users\Administrator\Documents\GitHub\demo\updateBattery\bin\Debug\updateBattery.exe
+C:\Users\Administrator\Documents\GitHub\demo\updateBattery\bin\Debug\updateBattery.pdb
+C:\Users\Administrator\Documents\GitHub\demo\updateBattery\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\GitHub\demo\updateBattery\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Documents\GitHub\demo\updateBattery\obj\Debug\updateBattery.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\demo\updateBattery\obj\Debug\updateBattery.csproj.CopyComplete
+C:\Users\Administrator\Documents\GitHub\demo\updateBattery\obj\Debug\updateBattery.exe
+C:\Users\Administrator\Documents\GitHub\demo\updateBattery\obj\Debug\updateBattery.pdb
