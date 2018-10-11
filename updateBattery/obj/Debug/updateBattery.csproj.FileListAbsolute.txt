@@ -17,3 +17,4 @@ C:\Users\Administrator\Documents\GitHub\demo\updateBattery\obj\Debug\updateBatte
 C:\Users\Administrator\Documents\GitHub\demo\updateBattery\obj\Debug\updateBattery.csproj.CopyComplete
 C:\Users\Administrator\Documents\GitHub\demo\updateBattery\obj\Debug\updateBattery.exe
 C:\Users\Administrator\Documents\GitHub\demo\updateBattery\obj\Debug\updateBattery.pdb
+C:\Users\Administrator\Documents\GitHub\demo\updateBattery\obj\Debug\updateBattery.csprojAssemblyReference.cache
